@@ -1,0 +1,4 @@
+https://myhost.tail1234.ts.net {
+  bind tailscale/myhost
+  respond OK
+}
